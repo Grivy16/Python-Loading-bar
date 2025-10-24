@@ -22,7 +22,7 @@
 - Module :
   - time (is installed per default)
     
-### Installer
+### Installation
 - #### 1 option :
   - Download from Pypi with `pip`.
   - Use the command in bash :
