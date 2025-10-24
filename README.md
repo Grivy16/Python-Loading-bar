@@ -17,7 +17,7 @@
 
 # Installation
 
-### Requirements (if you not use the portable/installer)
+### Requirements :
 - python last release
 - Module :
   - time (is installed per default)
